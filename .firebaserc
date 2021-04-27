@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firestore-grafica-3202e": {
+      "hosting": {
+        "goty": [
+          "firestore-grafica-3202e"
+        ]
+      }
+    }
+  }
+}
